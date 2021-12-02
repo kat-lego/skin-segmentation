@@ -13,10 +13,13 @@ The objective of the skin segmentation is to separate regions of skin and non-sk
 - right images: slic 
 
 ### Portrait images
-![Alt text](https://https://github.com/kat-lego/skin_segmentation/blob/master/results/demo5.1.png)
+
+![Alt text](https://github.com/kat-lego/skin_segmentation/blob/master/results/demo5.1.png?)
 
 ### Fullbody images
-![Alt text](https://https://github.com/kat-lego/skin_segmentation/blob/master/results/demo5.2.png)
+
+![Alt text](https://github.com/kat-lego/skin_segmentation/blob/master/results/demo5.2.png)
 
 ### Group images
-![Alt text](https://https://github.com/kat-lego/skin_segmentation/blob/master/results/demo5.3.png)
+
+![Alt text](https://github.com/kat-lego/skin_segmentation/blob/master/results/demo5.3.png)
