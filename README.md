@@ -1,8 +1,14 @@
-# skin_segmentation
+# skin segmentation
 
-A skin segmentation project focused on applying techniques from Digital Image Processing. (Not Machine Learning Focused)
-The SFA dataset was used in this report. Use the reference below if you are going to use the dataset. 
+The objective of the skin segmentation is to separate regions of skin and non-skin in colour images. This is done by classifying each pixel in the image as either being skin or not skin. This problem can be applied to a wide range of problems in computer vision, robotics and human-computer interaction. Examples of this are face detection and filtering crude images on the internet. Further details on the subject and implementation can be found on the report write up.
 
-http://www.sel.eesc.usp.br/sfa/
+## Implemented techinque.
+- The model that is implemented, fits a gaussuan distribution using a data set of skin pixels. Given an image, the model gives the likelyhood of a pixel being a skin pixel or not.
+- The input images are pre-processed using clustering so as to reduce the amount of variation in the images.
+- We use Otsu thresholding to produce the binary images.
 
-Casati, Joao Paulo Brognoni, Diego Rafael Moraes, and Evandro Luis Linhari Rodrigues. "SFA: A human skin image database based on FERET and AR facial images." IX workshop de Visao Computational, Rio de Janeiro. 2013.
+## Results.
+
+### Portrait images
+### Fullbody images
+### Group images
