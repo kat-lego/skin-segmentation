@@ -10,7 +10,7 @@ The objective of the skin segmentation is to separate regions of skin and non-sk
 ## Results.
 - Left images: no preprocessing
 - middle images: k means clustering preprocessing
-- right images: slic 
+- right images: slic preprocessing
 
 ### Portrait images
 
